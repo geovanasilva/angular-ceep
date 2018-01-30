@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { MuralComponent } from './mural/mural.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    MuralComponent
   ],
   imports: [
     BrowserModule
