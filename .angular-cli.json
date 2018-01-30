@@ -22,12 +22,13 @@
       "styles": [
         "styles.css",
         "./assets/css/botaoSync.css",
-        "./assets/css/cabecalho.css",
         "./assets/css/cartao.css",
-         "./assets/css/container.css",
+        "./assets/css/container.css",
         "./assets/css/formNovoCartao.css",
         "./assets/css/mural.css",
+        "./assets/css/opcoesDoCartao.css",
         "./assets/css/opcoesDaPagina.css",
+        "./assets/css/cabecalho.css",
         "./assets/css/reset.css"
       ],
       "scripts": [],
