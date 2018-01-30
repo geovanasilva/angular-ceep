@@ -3,16 +3,20 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-
+import { AppCabecalho} from './cabecalho/cabecalho.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AppCabecalho
+    
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
+
 })
 export class AppModule { }
